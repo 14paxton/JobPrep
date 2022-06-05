@@ -1,8 +1,8 @@
-> **BRANDON PAXTON**
+#  **BRANDON PAXTON**
 
 github.com/14paxton
 
-# SUMMARY OF QUALIFICATIONS 
+## SUMMARY OF QUALIFICATIONS 
 
 > Experience ranging form mainframe COBAL programming to Java and Microservice architecture.
 > Proficient in Java, C#, Javascript, SQL/MySQL , kotlin, and Groovy languages and Grails, Spring, MVC5, and Core frameworks;
@@ -12,7 +12,7 @@ github.com/14paxton
 
 ## **PROFESSIONAL EXPERIENCE** 
 
-### Talent Plus
+> ### Talent Plus
 > **Software Developer**, February 2019-- Present
 
 -   Develop HR consulting software for clients using Groovy(with Grails)
@@ -44,7 +44,7 @@ github.com/14paxton
 -   Using hibernate events, set up an async emailing service that is
     triggered off of new user saves
 
-### Nebraska Office of the Chief Information Officer
+> ### Nebraska Office of the Chief Information Officer
 > **Software Developer/IT Applications Administrator**, February 2017--
 > February 2019
 
@@ -66,7 +66,7 @@ github.com/14paxton
 -   Created internal website and ticketing system using Java, Spring,
     and JSF to monitor proxy requests
 
-### Dell, Lincoln, NE
+> ### Dell, Lincoln, NE
 > **Sr. Data Operations Advisor**, February 2015 -- February 2017
 
 -   Created Windows service using C# that removes client reports that
@@ -94,7 +94,7 @@ github.com/14paxton
 
 -   Update existing VB applications to C#
 
-### Nelnet, Lincoln, NE
+> ### Nelnet, Lincoln, NE
 > **Senior Technical Representative**, Jan 2012 -- June 2014
 
 -   Interpreted, evaluated, and tested client inquiries and issues
@@ -110,16 +110,16 @@ github.com/14paxton
 
 -   Translated technical details into business relevant language.
 
-# EDUCATION 
-## University of Nebraska Lincoln, Lincoln NE
+## EDUCATION 
+> ### University of Nebraska Lincoln, Lincoln NE
 **BA in Advertising**
 -   Concentration: Business Marketing
 -   Member of Advertising Club
 
-## Southeast Community College, Lincoln NE
+> ### Southeast Community College, Lincoln NE
 **Computer Information Technology**
 -   Emphasis: Programming and Application Development
 
-## Doane, Lincoln NE
+> ### Doane, Lincoln NE
 **Computer Science**
 -   Emphasis: Application Development
