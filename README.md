@@ -119,11 +119,11 @@ Nelnet, Lincoln, NE
 **Computer Science**
 -   Emphasis: Application Development
 
-# Southeast Community College, Lincoln NE
+## Southeast Community College, Lincoln NE
 **Computer Information Technology**
 -   Emphasis: Programming and Application Development
 
-# University of Nebraska Lincoln, Lincoln NE
+## University of Nebraska Lincoln, Lincoln NE
 **BA in Advertising**
 -   Concentration: Business Marketing
 -   Member of Advertising Club
