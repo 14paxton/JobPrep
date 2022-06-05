@@ -115,15 +115,15 @@ Nelnet, Lincoln, NE
 -   Translated technical details into business relevant language.
 
 # EDUCATION 
-## Doane, Lincoln NE
-**Computer Science**
--   Emphasis: Application Development
+## University of Nebraska Lincoln, Lincoln NE
+**BA in Advertising**
+-   Concentration: Business Marketing
+-   Member of Advertising Club
 
 ## Southeast Community College, Lincoln NE
 **Computer Information Technology**
 -   Emphasis: Programming and Application Development
 
-## University of Nebraska Lincoln, Lincoln NE
-**BA in Advertising**
--   Concentration: Business Marketing
--   Member of Advertising Club
+## Doane, Lincoln NE
+**Computer Science**
+-   Emphasis: Application Development
