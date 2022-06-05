@@ -12,8 +12,7 @@ github.com/14paxton
 
 ## **PROFESSIONAL EXPERIENCE** 
 
-Talent Plus
-
+### Talent Plus
 > **Software Developer**, February 2019-- Present
 
 -   Develop HR consulting software for clients using Groovy(with Grails)
@@ -45,8 +44,7 @@ Talent Plus
 -   Using hibernate events, set up an async emailing service that is
     triggered off of new user saves
 
-Nebraska Office of the Chief Information Officer
-
+### Nebraska Office of the Chief Information Officer
 > **Software Developer/IT Applications Administrator**, February 2017--
 > February 2019
 
@@ -68,8 +66,7 @@ Nebraska Office of the Chief Information Officer
 -   Created internal website and ticketing system using Java, Spring,
     and JSF to monitor proxy requests
 
-Dell, Lincoln, NE
-
+### Dell, Lincoln, NE
 > **Sr. Data Operations Advisor**, February 2015 -- February 2017
 
 -   Created Windows service using C# that removes client reports that
@@ -97,8 +94,7 @@ Dell, Lincoln, NE
 
 -   Update existing VB applications to C#
 
-Nelnet, Lincoln, NE
-
+### Nelnet, Lincoln, NE
 > **Senior Technical Representative**, Jan 2012 -- June 2014
 
 -   Interpreted, evaluated, and tested client inquiries and issues
