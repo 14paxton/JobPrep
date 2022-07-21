@@ -28,7 +28,7 @@ github.com/14paxton
     Created an async search and load function that prevented whole table
     from re-rendering 
 
--   Created a customized date range picker that worked with the advanced
+-   Created a customized date range picker in react that worked with the advanced
     search form I created
 
 -   Used Java to create custom HTTP builder service to use a bit stream
