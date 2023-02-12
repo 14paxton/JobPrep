@@ -153,3 +153,20 @@ FitStatement.getEnumConstants().find{ (it.value == member.result) }?.match ?: me
 
 - What up coming features or new technology are you excited about
 - implementing.
+
+
+1.) Describe a recent serious outage and how it was resolved.
+
+2.) How does your expense policy & process work?
+
+3.) How much attrition has the team, and the wider department, had in the last 12-18 months?
+
+4.) What budget will I have for my continuing professional development? What restrictions are there on what I can spend it on?
+
+5.) What is best thing about working here? And what is the worst thing?
+
+6.) Describe a recent interpersonal conflict within the team, and how it was handled.
+
+7.) How much time does the team typically get for a) technical debt reduction & b) research projects per quarter?
+
+8.) Describe a recent prioritisation conflict - perhaps between the team & PM, or between different stakeholders. How was it resolved?
