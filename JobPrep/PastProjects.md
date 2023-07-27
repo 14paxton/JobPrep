@@ -1,8 +1,8 @@
 ---  
 title:        PastProjects  
-permalink:    JobPrep/PastProjects  
+permalink:    GithubPages/PastProjects  
 category:     JobPrep  
-parent:       PersonalDocsAndStuff  
+parent:       MyPersonalDocsAndStuff  
 layout:       default  
 has_children: false  
 share:        true  
@@ -11,21 +11,20 @@ shortRepo:
   - default  
 ---  
   
+<details markdown="block">          
+<summary>          
+Table of contents          
+</summary>          
+{: .text-delta }          
+1. TOC          
+{:toc}          
+</details>          
   
-<details markdown="block">        
-<summary>        
-Table of contents        
-</summary>        
-{: .text-delta }        
-1. TOC        
-{:toc}        
-</details>        
+<br/>          
   
-<br/>        
+***          
   
-***        
-  
-<br/>        
+<br/>          
   
 # Projects  
   
@@ -35,56 +34,56 @@ Table of contents
   
 a. -things I did-  
   
-       i.  Learned and created a proof of concept with dynamic library      
-           to create forms using react hook forms to replace Forminak      
-      
-       ii. Figured out some unconventional ways to make form and      
-           components work the way the end user request (wanting submit      
-           for the form to be submitted by a button from a modal      
-           produced by a parent component, using materials controlled      
-           fields in the form designed for uncontrolled fields.      
+       i.  Learned and created a proof of concept with dynamic library        
+           to create forms using react hook forms to replace Forminak        
+        
+       ii. Figured out some unconventional ways to make form and        
+           components work the way the end user request (wanting submit        
+           for the form to be submitted by a button from a modal        
+           produced by a parent component, using materials controlled        
+           fields in the form designed for uncontrolled fields.        
   
 ### 2. - [Material Table -assessmentresultstable.js](https://github.com/14paxton/TableWithAsyncCall)  
   
 a. Things I did  
   
-       i.  Created custom search function component using react hook      
-           forms      
-      
-       ii. Created an async search and load function that prevented      
-           whole table from rerendering      
+       i.  Created custom search function component using react hook        
+           forms        
+        
+       ii. Created an async search and load function that prevented        
+           whole table from rerendering        
   
 b. Difficulties  
   
-       i.  On table selection showing material ui chips with assessment      
-           names under table      
-      
-       ii. Custom select all (select all will only select all      
-           assessments shown on designated table page, if you select to      
-           paginate over or select to show more rows in table, select      
-           all resets still keeping previous selections select , but if      
-           clicked again will select new records shown)      
+       i.  On table selection showing material ui chips with assessment        
+           names under table        
+        
+       ii. Custom select all (select all will only select all        
+           assessments shown on designated table page, if you select to        
+           paginate over or select to show more rows in table, select        
+           all resets still keeping previous selections select , but if        
+           clicked again will select new records shown)        
   
 ### 3. - [Dynamic Ellipsis Component -- ellipsismodifier.js](https://github.com/14paxton/DynamicEllipsis)  
   
-a.  
-Adds an ellipsis by text count or if text count is not set will      
-create ellipsis when text overfills div, will dynamically add      
+a.    
+Adds an ellipsis by text count or if text count is not set will        
+create ellipsis when text overfills div, will dynamically add        
 ellipsis if page is resized  
   
 ### 4. [Date Range Picker -- presetdaterangepicker.js](https://github.com/14paxton/DateRangePicker)  
   
 a. Things I did  
   
-       i.  Found an existing react range picker, used it as a template      
-           to create a customized date range picker that worked with      
-           the advanced search form I created      
+       i.  Found an existing react range picker, used it as a template        
+           to create a customized date range picker that worked with        
+           the advanced search form I created        
   
 b. Difficulties  
   
-       i.  Finding an example of something using react close to what      
-           the designer wanted, example they showed was an old jquery      
-           data picker      
+       i.  Finding an example of something using react close to what        
+           the designer wanted, example they showed was an old jquery        
+           data picker        
   
 ### 5.- [ created dynamic tool tip ](https://gist.github.com/14paxton/9c745874ec384add89c1908c73832594)  
   
@@ -97,33 +96,33 @@ b. Difficulties
 ### 1. - [Pulling images and pdfs from an s3 bucket to attach to an email --](https://gist.github.com/14paxton/1fa8f703b708b9488408c9217a83b3a9)  
   
 - [getting binary stream](https://gist.github.com/14paxton/58da1e0c108fa527c5ec1a770eefa683)  
-  - assesssmentresultservice.groovy and  
-  - resultsharingdetalsservice.groovy  
+    - assesssmentresultservice.groovy and  
+    - resultsharingdetalsservice.groovy  
   
   a. Things I did  
   
-       i.  I needed to get images from s3 bucket and attach them to an      
-           email that was sending with post mark      
+       i.  I needed to get images from s3 bucket and attach them to an        
+           email that was sending with post mark        
   
   b. Difficulties  
   
-       i.  I needed to get the files while I still had access to the      
-           authorization token, but then send to jms que which was used      
-           to send emails      
+       i.  I needed to get the files while I still had access to the        
+           authorization token, but then send to jms que which was used        
+           to send emails        
   
-           1.  Save authorization and download url to map, attached as      
-               string to message being sent to que, when email service      
-               read message it downloads and saves file to temp      
-               directory, then encodes file as base64 to attach to      
-               email      
+           1.  Save authorization and download url to map, attached as        
+               string to message being sent to que, when email service        
+               read message it downloads and saves file to temp        
+               directory, then encodes file as base64 to attach to        
+               email        
   
 ### 2. - [Find way to test gorm where/ detached criteria and hibernate queries](https://github.com/14paxton/PersonalGrailsNotes/blob/main/Testing.md#mocking-hibernate-used-to-test-methods-using-where-queriers--detached-criteria--criteria-builder)  
   
 -- catalogdetailservicespec.groovy  
   
-a.  
-Dug through documentation for hibernate and how it works and      
-came up with a way to mock and set hibernateDataStore and      
+a.    
+Dug through documentation for hibernate and how it works and        
+came up with a way to mock and set hibernateDataStore and        
 PlatformTransactionManager  
   
 ### 3. - [Found and configured plugin  
@@ -151,7 +150,7 @@ interviewer and interviewees outlook calendar
   
 ### -Things I enjoy-  
   
-      
+        
 ---      
   
 # What I enjoy about what I do!  
@@ -160,35 +159,35 @@ interviewer and interviewees outlook calendar
   
 a. Setting custom validity for a form field with javascript  
   
-       i.  e.target.setCustomValidity(\'invalid\');      
+       i.  e.target.setCustomValidity(\'invalid\');        
   
-b. programmatically setting html in a string for react (although it      
+b. programmatically setting html in a string for react (although it        
 is strongly discouraged)  
   
-       i.  dangerouslySetInnerHTML- set html in a string      
+       i.  dangerouslySetInnerHTML- set html in a string        
   
-```jsx      
+```jsx        
 {__html: '<p>' + result?.themeSummary + '. <i>*Theme Of Significance.</i></p>'}  
-<Tooltip title={<div dangerouslySetInnerHTML={modifiedToolTip}/>} childrenDisplayStyle="inline">      
-```      
+<Tooltip title={<div dangerouslySetInnerHTML={modifiedToolTip}/>} childrenDisplayStyle="inline">        
+```        
   
-c. enums , to check a key we were using a try/catch and if it failed      
-the key doesn't exist, I don't like making code purposefully fail ,      
+c. enums , to check a key we were using a try/catch and if it failed        
+the key doesn't exist, I don't like making code purposefully fail ,        
 made a util to replace  
   
 - Custom check enums  
   
-```java      
-AssessmentPurpose.getEnumConstants().find{it.key.equalsIgnoreCase("extrn")}?.value      
-```      
+```java        
+AssessmentPurpose.getEnumConstants().find{it.key.equalsIgnoreCase("extrn")}?.value        
+```        
   
 - [GET By value]{.underline}**  
   
-```java      
-FitStatement.getEnumConstants().find{(it.value==member.result)}?.match?:member.result      
-```      
+```java        
+FitStatement.getEnumConstants().find{(it.value==member.result)}?.match?:member.result        
+```        
   
-      
+        
 ---      
   
 # Dev Questions  
